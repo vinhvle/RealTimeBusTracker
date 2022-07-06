@@ -5,7 +5,7 @@ Click the button, "Show stops between MIT and Harvard" to move the marker icon t
 
 Roadmap of Future Improvements
 
-Allow the user to place multiple marker icons on the map
+Allow the user to place multiple marker icons on the map;
 Display the address of each marker icon's location
 
 License Information
